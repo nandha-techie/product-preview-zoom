@@ -1,6 +1,9 @@
 <h1 align="center">product-preview-zoom
 </h1>
 
+## Demo Link
+<a href="https://nandha-techie.github.io/product-preview-zoom/">LIVE</a>
+
 ## About The Product Preview Zoom
 
 <p>I use HTML & CSS with Jquery plugin only for responsive product page with zoom effect helps beginners.
