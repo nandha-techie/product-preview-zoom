@@ -3,7 +3,7 @@
 
 ## About The Product Preview Zoom
 
-<p>I use HTML & CSS with Jquery plugin only for responsive product page with zoom effect helps biginners.
+<p>I use HTML & CSS with Jquery plugin only for responsive product page with zoom effect helps beginners.
 Mobile first approach for small screen, I have removed scrollbar for all browers compatibility. 
 Using jacklmoore jquery plugins for magnifying zoom by hover. Uses flex and grid layout.
 I hope it will helps to practice html, css and javascript.
